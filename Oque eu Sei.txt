@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando mais tags</title>
+    <style>
+       head{
+
+        display: flex;
+        
+       }
+       h1 {
+            content: center;
+            text-align: center;
+       }
+       a {
+            text-decoration: none;
+            border: solid;
+            border-radius: 10%;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <h1>Treinamento Fluig Dev Start</h1>
+    <p><strong>Autor:</strong> Guilherme Carnieiro</p>
+    <p><strong>Data de nascimento:</strong> 03/03/2006</p>
+    <p>Oque eu sei até agora <strong>16hrs 42mins - 22/08/2024...</strong> </p>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>booststrap</li>
+        <li>Js</li>
+        <li>JQUERY</li>
+        <li>XML</li>
+        <li>JSON</li>
+    </ul>
+    <hr>
+    <ol>
+        <li>Assista as aulas </li>
+        <li>Revisar vídeos  com Dúvidas</li>
+        <li>Participar</li>
+    </ol>
+    <hr>
+    <a href="https://academy.fluig.com/mod/pagevideotranscricao/view.php?id=994">Clique aqui para saber como aprendi isso...</a>
+</body>
+</html>
